@@ -30,4 +30,6 @@ public class Member {
     private int modelYear;
     @Column
     private int startYear;
+
+
 }
